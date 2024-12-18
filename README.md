@@ -2,22 +2,6 @@
 
 This is a professional portfolio website built with **Vite** and **React**. It showcases my skills, experience, personal projects, and contact information. The website is designed to highlight a senior developer’s expertise and achievements in an elegant, responsive layout.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation Instructions](#installation-instructions)
-- [File Structure](#file-structure)
-- [How to Run Locally](#how-to-run-locally)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
-## Overview
-
-This project is a portfolio website designed to represent a senior developer. It showcases the projects, skills, and experience that demonstrate the developer’s technical capabilities. Built with **React** for the front-end and optimized for performance using **Vite**, the website provides a seamless and fast user experience.
-
 ## Features
 
 - **Modern and Minimalistic Design**: Clean, user-friendly design focusing on the developer’s skills and work.
@@ -35,13 +19,7 @@ This project is a portfolio website designed to represent a senior developer. It
 - **CSS / SCSS** - For styling the application with modular and maintainable code.
 - **React Router** (optional) - Used for navigating between different sections or pages.
 - **React Icons** - A library to easily include SVG icons in the app.
-- **Axios** (optional) - For handling API requests if the site includes dynamic data fetching.
 - **FontAwesome / Custom Fonts** (optional) - For typography and iconography.
 - **React Spring** or **Framer Motion** (optional) - For animations.
 
-## Installation Instructions
-
-Follow these instructions to install and run the project locally:
-
-### 1. Clone the repository:
 
